@@ -1,8 +1,8 @@
 
 {
-    "name": "charleskeller/kizi",
-    "description": "Kizi Framework.",
-    "keywords": ["framework", "kizi"],
+    "name": "SpidermanOnline/spider-man",
+    "description": "spider-man games Framework.",
+    "keywords": ["framework", "spider-man game"],
     "license": "MIT",
     "type": "project",
     "require": {
